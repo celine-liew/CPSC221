@@ -1,0 +1,18 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "iterator": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "vector": "cpp",
+        "iosfwd": "cpp",
+        "__split_buffer": "cpp",
+        "istream": "cpp",
+        "iostream": "cpp",
+        "__bit_reference": "cpp",
+        "algorithm": "cpp",
+        "ios": "cpp",
+        "ostream": "cpp",
+        "utility": "cpp"
+    }
+}
